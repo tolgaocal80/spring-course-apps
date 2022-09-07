@@ -1,0 +1,28 @@
+# Ignore the node_modules directory
+node_modules/
+
+# Ignore Logs
+logs
+*.log
+
+#Ignore servers
+Servers/
+
+#Ignore metadata
+.metadata/
+.plugins/
+lib/
+
+*.jar
+
+
+# Ignore the build directory
+/dist
+
+# The file containing environment variables 
+.env
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.sw*
